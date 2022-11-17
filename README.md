@@ -2,8 +2,8 @@
 
 <div style="display: flex" >
   <a href="https://github.com/cacaiol/">
-  <img height="175em" width="415px" src="https://github-readme-stats.vercel.app/api?username=cacaiol&show_icons=true&theme=tokyonight"/>   
-  <img height="175em" width="415px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cacaiol&layout=compact&langs_count=16&theme=tokyonight"/>
+  <img height="175em" width="415px" src="https://github-readme-stats.vercel.app/api?username=cacaiol&show_icons=true&theme=dark"/>   
+  <img height="175em" width="415px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cacaiol&layout=compact&langs_count=16&theme=dark"/>
 </div>
 
 <div style="display: inline_block"><br>
