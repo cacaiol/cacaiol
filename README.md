@@ -1,8 +1,8 @@
 ### Olá! Eu sou o Caio Fernandes  👋
 
 <div style="display: flex" >
-  <a href="https://github.com/cacaiol">
-  <img height="175em" width="415px" src="https://github-readme-stats.vercel.app/api?username=cacaiol&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>   
+  <a href="https://github.com/cacaiol/">
+  <img height="175em" width="415px" src="https://github-readme-stats.vercel.app/api?username=cacaiol&show_icons=true&theme=dark"/>   
   <img height="175em" width="415px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cacaiol&layout=compact&langs_count=16&theme=dark"/>
 </div>
 
