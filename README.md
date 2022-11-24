@@ -1,4 +1,4 @@
-### Hi! I am Caio Fernandes 👋
+### Hi! I'm Caio Fernandes 👋
 
 <div style="display: flex" >
   <a href="https://github.com/cacaiol/">
