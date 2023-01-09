@@ -1,4 +1,5 @@
-### Hi! I'm Caio Fernandes and I'm Front End React and React Native Developer 👋
+### Hi! I'm Caio Fernandes 👋 
+### Currently I'm Front End React and React Native Developer 
 
 <div style="display: flex" >
   <a href="https://github.com/cacaiol/">
