@@ -1,5 +1,5 @@
 ### Hi! I'm Caio Fernandes 👋 
-### I'm currently a Back End Developer and curious about the Full Stack idea 
+### I'm currently a Back End Developer and curious about the Full Stack idea 🎓
 
 <div style="display: flex" >
   <a href="https://github.com/cacaiol/">
