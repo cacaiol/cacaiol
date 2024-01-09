@@ -1,4 +1,4 @@
-### Hi! I'm Caio Fernandes 👋 
+### Hi! I'm Caio  👋 
 ### I'm currently a Back End Developer and curious about the Full Stack idea 🎓
 
 <div style="display: flex" >
