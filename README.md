@@ -1,7 +1,7 @@
 ### Hi! I'm Caio  👋 
 
 🇧🇷 
-Meu nome é Caio Pereira Fernandes, sou estudante de Analise e Desenvolvimento de Sistemas pela Universidade Paulista. 
+Meu nome é Caio Pereira Fernandes, sou estudante de Analise e Desenvolvimento de Sistemas pela Universidade Paulista.  
 Sou um entusiasta pela Ciência da Computação e admirador pela matemática. 
 
 <div style="display: flex" >
