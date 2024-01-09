@@ -1,5 +1,8 @@
 ### Hi! I'm Caio  👋 
-### I'm currently a Back End Developer and curious about the Full Stack idea 🎓
+
+🇧🇷 
+Meu nome é Caio Pereira Fernandes, sou estudante de Analise e Desenvolvimento de Sistemas pela Universidade Paulista. 
+Sou um entusiasta pela Ciência da Computação e admirador pela matemática. 
 
 <div style="display: flex" >
   <a href="https://github.com/cacaiol/">
