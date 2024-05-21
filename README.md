@@ -1,7 +1,7 @@
 ### Hi! I'm Caio  👋 
 
 🇧🇷 
-Meu nome é Caio Pereira Fernandes, sou estudante de Analise e Desenvolvimento de Sistemas pela Universidade Paulista.  
+Meu nome é Caio Pereira Fernandes, sou graduado em Analise e Desenvolvimento de Sistemas pela Universidade Paulista.  
 
 <div style="display: flex" >
   <a href="https://github.com/cacaiol/">
